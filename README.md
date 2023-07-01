@@ -15,3 +15,12 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 ### Typescript
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+
+# Finnhub Stock API is used. So a big shoutout to them.
+
+### Functionalities
+- You can see stats of various stocks and their past and present value.
+- On Search Bar, you can select the stock which stats and data you want to see.
+- After clicking the stats and data of stock are shown in the table given below.
+- After hovering of stock you can see a red delet button. On clicking stock will be removed from table.
+- If you want to see more information, click on stock and you get a graph of red(indicating fall) and green(indicating rise).
